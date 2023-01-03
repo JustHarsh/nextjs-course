@@ -1,3 +1,5 @@
+/* Cannot be imported in any file except _app.js */
+
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
