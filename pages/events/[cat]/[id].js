@@ -1,4 +1,4 @@
-import { SingleEvent } from '../singleEvent';
+import { SingleEvent } from '../../../src/components/events/singleEvent';
 
 const EventPage = ({ data }) => { // line 42
  return <SingleEvent data={data}/>
